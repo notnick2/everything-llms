@@ -1,0 +1,9 @@
+[submodule "MiniAlign"]
+	path = MiniAlign
+	url = git@github.com:notnick2/minialign-rlhf-pipeline.git
+[submodule "EvalForge"]
+	path = EvalForge
+	url = git@github.com:notnick2/evalforge-eval-platform.git
+[submodule "RedSynth"]
+	path = RedSynth
+	url = git@github.com:notnick2/redsynth-redteam-engine.git
