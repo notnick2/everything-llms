@@ -1,0 +1,1 @@
+Everything LLMs - data collection, data cleaning, dataset curation, pretraining, post-training (SFT, RLHF, DPO), alignment, evaluation, red teaming, inference, serving, optimization, quantization, fine-tuning, retrieval (RAG), agents & tool use, multimodal systems, observability, security, deployment, feedback loops, scaling & infrastructure, product integration
